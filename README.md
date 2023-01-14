@@ -97,22 +97,22 @@ for city in cities:
 ```
 ### **Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude**
 ### Latitude v Humidity
-![Image Link]()
+![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/images/lat_humidity.png)
 
 
 ### Latitude v Humidity with linear regression
-![Image Link]()
+![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/images/lat_humidity_linear.png)
 
 ---
 ## VacationPy
 ### Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualisations.
 
 ### A heat map displaying every city in the dataframe
-![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/heat_map_evidence/heat_map.png)
+![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/images/heat_map.png)
 
 
 ### A map with markers displaying information of the hotels with the following conditions: temperature between 22 and 26 degrees, 0 cloudiness and a wind speed of less than 4.5.
-![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/heat_map_evidence/markers_on_heat_map.png)
+![Image Link](https://github.com/nickjaycarr88/python-api-challenge/blob/main/images/markers_on_heat_map.png)
 
 ### A few findings from WeatherPy 
 1-The wind speed for both northern and southern hemisphere is generally below 20 mph for the whole world. However there is no strong correlation between the latitude and wind speed data. The use of a scatter plot is helpful to show how little correlation there is.
